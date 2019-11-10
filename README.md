@@ -11,7 +11,9 @@ https://share.zabbix.com/network_devices/juniper/juniper-qfx5110-snmpv3
 Features
 ------
 - Interface discovery
-- Hardware discovery
+  - Interface utilization and triggers
+- Hardware discovery + triggers
+- BGP discovery + trigger
 
 
 Macros
